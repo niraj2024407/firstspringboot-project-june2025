@@ -16,7 +16,7 @@ public class FirstSpringAppApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(FirstSpringAppApplication.class, args);
-		//System.out.println("Hello everyone, This is our first Spring Boot App!!!");
+		System.out.println("Hello everyone, This is our first Spring Boot App!!!");
 	}
 
 
